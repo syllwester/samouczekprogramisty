@@ -1,5 +1,10 @@
 package com.dom.samouczek.zadanie3;
 
+
+/**
+ * Create by Sylwester Garstecki
+ * Program sprawdzający działanie metod string'a.
+ */
 public class ZadanieDodatkowe {
     public static void main(String[] args) {
         String pogoda1 = "Jest pochmurno!";

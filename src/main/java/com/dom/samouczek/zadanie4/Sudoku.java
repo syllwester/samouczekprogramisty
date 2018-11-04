@@ -1,6 +1,9 @@
 package com.dom.samouczek.zadanie4;
 
-public class Main3 {
+/**
+ * Create by Sylwester Garstecki
+ */
+public class Sudoku {
     public static void main(String[] args) {
         Integer[][] table = new Integer[][]{
           new Integer[]{2, null, null, 6, null, 7, 5, null, null},

@@ -1,7 +1,6 @@
 package com.dom.samouczek.zadanie3;
 
 /** Create by Sylwester Garstecki 01.09.2018
- * Program ...
  */
 public class Main {
     public static void main(String[] args) {

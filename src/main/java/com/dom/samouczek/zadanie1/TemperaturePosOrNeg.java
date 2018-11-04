@@ -3,7 +3,7 @@ package com.dom.samouczek.zadanie1;
 /** Create by Sylwester Garstecki
  * Program sprawdza czy temperatura jest dodatnia czy ujemna.
  */
-public class Main {
+public class TemperaturePosOrNeg {
 
     public boolean temperaturePosOrNeg(int temp){
         boolean isPositive = temp > 0;
@@ -18,8 +18,8 @@ public class Main {
 
 
     public static void main(String[] args) {
-            Main main = new Main();
-            main.temperaturePosOrNeg(-2);
-            main.temperaturePosOrNeg(5);
+            TemperaturePosOrNeg temperaturePosOrNeg = new TemperaturePosOrNeg();
+            temperaturePosOrNeg.temperaturePosOrNeg(-2);
+            temperaturePosOrNeg.temperaturePosOrNeg(5);
     }
 }
