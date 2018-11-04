@@ -1,11 +1,16 @@
 package com.dom.samouczek.zadanie5;
 
-public class Main5 {
+/**
+ * Create by Sylwester Garstecki
+ * Metoda sumująca liczby w tablicy
+ */
+
+public class SumNumTab {
     public static void main(String[] args) {
         int[] tab = {6,6,6,6};
 
-        Main5 main5 = new Main5();
-        System.out.println(main5.sum(tab));
+        SumNumTab sumNumTab = new SumNumTab();
+        System.out.println(sumNumTab.sum(tab));
     }
 
     public int sum(int[] tab){
