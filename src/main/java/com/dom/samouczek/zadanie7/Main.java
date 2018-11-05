@@ -1,5 +1,10 @@
 package com.dom.samouczek.zadanie7;
 
+/**
+ * Create by Sylwester Garstecki
+ * Program sumujący lub mnożący dwie liczby podane przez użytkownika.
+ */
+
 import java.util.Scanner;
 
 public class Main {
@@ -8,7 +13,7 @@ public class Main {
         Main main = new Main();
         Computation computation;
 
-        if(main.shouldChooseAddOrMultiplication()){
+        if(main.chooseAddOrMultiplication()){
             computation = new AddNumbers();
         }else {
             computation = new MultiplicationNumbers();
@@ -22,7 +27,7 @@ public class Main {
 
     }
 
-    private boolean shouldChooseAddOrMultiplication(){
+    private boolean chooseAddOrMultiplication(){
         boolean bool = false;
         System.out.println("What do you want to do?" + "\n"
                 + "1. Add numbers." + "\n"

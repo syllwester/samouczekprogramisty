@@ -1,5 +1,10 @@
 package com.dom.samouczek.zadanie6;
 
+/**
+ * Create by Sylwester Garstecki
+ * Program oblicza średnią każdego przedmiotu oraz średnią ogólną ze wszystkich przedmiotów.
+ * Oceny z przedmiotów umieszone są w tablicy dwuwymiarowej.
+ */
 public class AverageGrade {
     public static void main(String[] args) {
         int[][] tableOfClasses = new int[][]{new int[]{1, 2, 3, 4}, new int[]{5, 6, 5, 5}, new int[]{3, 3, 3, 3}};

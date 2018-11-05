@@ -1,5 +1,10 @@
 package com.dom.samouczek.zadanie6;
 
+/**
+ * Create by Sylwester Garstecki
+ * Program obliczający średnią z 7 wprowadzonych przez użytkownika temperatur.
+ */
+
 import java.util.Scanner;
 
 public class AverageTemperature {
