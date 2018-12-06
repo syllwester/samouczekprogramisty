@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de757a92-74d3-44d5-b49c-fc809438cf27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/AddNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/MultiplicationNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie6/AverageGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie6/AverageGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie6/AverageTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie6/AverageTemperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/samouczek/zadanie6/AverageGrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/samouczek/zadanie6/AverageGrade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/samouczek/zadanie6/AverageTemperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/samouczek/zadanie6/AverageTemperature.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dom/samouczek/zadanie7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dom/samouczek/zadanie7/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,14 +20,14 @@
     <session id="-1711018116">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.38" value="2" />
@@ -43,31 +36,31 @@
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="169" />
-          <entry key="java" value="9246" />
+          <entry key="java" value="9833" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9246" />
+          <entry key="JAVA" value="9833" />
           <entry key="PLAIN_TEXT" value="169" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="66" />
+          <entry key="java" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="66" />
+          <entry key="JAVA" value="73" />
         </counts>
       </usages-collector>
     </session>
@@ -75,31 +68,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-357">
-              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/MultiplicationNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="315">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/MultiplicationNumbersTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -109,9 +90,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -167,8 +148,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie6/AverageGradeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie6/AverageTemperature.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/AddNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/MultiplicationNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/AddNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main3.java" />
       </list>
     </option>
   </component>
@@ -216,8 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,16 +240,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="samouczek" type="462c0819:PsiDirectoryNode" />
-              <item name="zadanie7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Samouczek" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SamouczekProgramisty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="samouczek" type="462c0819:PsiDirectoryNode" />
-              <item name="zadanie9" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Samouczek" type="b2602c69:ProjectViewProjectNode" />
@@ -299,20 +272,31 @@
               <item name="samouczek" type="462c0819:PsiDirectoryNode" />
               <item name="zadanie4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Samouczek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SamouczekProgramisty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="samouczek" type="462c0819:PsiDirectoryNode" />
+              <item name="zadanie7" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541451227351" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544119382337" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Programowanie w domu/projekt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -344,13 +328,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AddNumbersTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dom.samouczek.zadanie7.Main" />
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dom.samouczek.zadanie10.Main1" />
       <module name="samouczek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dom.samouczek.zadanie7.*" />
+          <option name="PATTERN" value="com.dom.samouczek.zadanie10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dom.samouczek.zadanie10.Main2" />
+      <module name="samouczek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dom.samouczek.zadanie10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,22 +385,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddNumbersTest.shouldSumTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="samouczek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dom.samouczek.zadanie7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dom.samouczek.zadanie7" />
-      <option name="MAIN_CLASS_NAME" value="com.dom.samouczek.zadanie7.AddNumbersTest" />
-      <option name="METHOD_NAME" value="shouldSumTwoNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MultiplicationNumbersTest.shouldMultiplicationTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="samouczek" />
       <extension name="coverage">
@@ -421,19 +402,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.AddNumbersTest.shouldSumTwoNumbers" />
       <item itemvalue="JUnit.AddNumbersTest.should" />
       <item itemvalue="JUnit.MultiplicationNumbersTest.shouldMultiplicationTwoNumbers" />
       <item itemvalue="JUnit.AddNumbersTest" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1" />
         <item itemvalue="JUnit.AddNumbersTest" />
         <item itemvalue="JUnit.MultiplicationNumbersTest.shouldMultiplicationTwoNumbers" />
         <item itemvalue="JUnit.AddNumbersTest.should" />
-        <item itemvalue="JUnit.AddNumbersTest.shouldSumTwoNumbers" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -463,12 +444,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TemperaturePosOrNegTest_shouldShowTemperatureIsNegative - 2018.11.04 at 17h 54m 58s.xml">
-      <configuration name="TemperaturePosOrNegTest.shouldShowTemperatureIsNegative" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemperaturePosOrNegTest - 2018.11.04 at 18h 00m 58s.xml">
-      <configuration name="TemperaturePosOrNegTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SumNumInArrayTest_shouldSumNumbersInArray - 2018.11.04 at 18h 30m 53s.xml">
       <configuration name="SumNumInArrayTest.shouldSumNumbersInArray" configurationId="JUnit" />
     </history-entry>
@@ -493,6 +468,12 @@
     <history-entry file="AddNumbersTest_should - 2018.11.05 at 21h 51m 20s.xml">
       <configuration name="AddNumbersTest.should" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MultiplicationNumbersTest_shouldMultiplicationTwoNumbers - 2018.11.05 at 21h 53m 50s.xml">
+      <configuration name="MultiplicationNumbersTest.shouldMultiplicationTwoNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddNumbersTest - 2018.11.05 at 21h 54m 36s.xml">
+      <configuration name="AddNumbersTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="27787000" />
@@ -501,7 +482,7 @@
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21331316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22239032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +491,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3442623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3442623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie8/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="1" selection-start-line="10" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie8/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -601,23 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie9/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="114" selection-start-line="24" selection-start-column="114" selection-end-line="24" selection-end-column="114" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie1/TemperaturePosOrNegTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -698,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,22 +684,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie6/AverageGradeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie6/AverageGradeTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie6/AverageGrade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -766,16 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/AddNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/AddNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -790,10 +723,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/MultiplicationNumbersTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/AddAndMultiplicationNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        <state relative-caret-position="126">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -804,13 +738,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dom/samouczek/zadanie7/MultiplicationNumbersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie7/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        <state relative-caret-position="-357">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="1" selection-start-line="10" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie9/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="24" column="114" selection-start-line="24" selection-start-column="114" selection-end-line="24" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dom/samouczek/zadanie10/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
